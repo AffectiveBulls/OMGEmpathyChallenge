@@ -26,7 +26,7 @@ If you use the code (only for research), please consider citing our paper:
 
 [OMG Emotion Challenge 2019]: <https://www2.informatik.uni-hamburg.de/wtm/omgchallenges/omg_empathy.html>
 [Shaun Canavan]: <http://www.csee.usf.edu/~scanavan/>
-[Saurabh Hinduja]: <mail:saurabhh@mail.usf.edu>
-[Astha Sharma]: <mail:asthasharma@mail.usf.edu>
-[Sk Rahatul Jannat]: <mail:jannat@mail.usf.edu>
-[Md Taufeeq Uddin ]: <mail:mdtaufeeq@mail.usf.edu>
+[Saurabh Hinduja]: <mailto:saurabhh@mail.usf.edu>
+[Astha Sharma]: <mailto:asthasharma@mail.usf.edu>
+[Sk Rahatul Jannat]: <mailto:jannat@mail.usf.edu>
+[Md Taufeeq Uddin ]: <mailto:mdtaufeeq@mail.usf.edu>
