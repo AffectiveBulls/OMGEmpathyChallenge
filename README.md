@@ -17,7 +17,7 @@ Team Member: [Shaun Canavan], [Saurabh Hinduja], [Astha Sharma], [Sk Rahatul Jan
 If you use the code (only for research), please consider citing our paper:
 ```sh
 @inproceedings{
- author =  {Shaun Canavan, Saurabh Hinduja, Astha Sharma, Sk Rahatul Jannat, Md Taufeeq Uddin},
+ author =  {Hinduja, S. and Uddin, Md T. and Jannat, Sk R., and Sharma, A. and Canavan, S.},
  title = {{Weighted Fusion of Hand-crafted and Deep Features for Empathy Prediction}},
  year = {2019},
  booktitle = {arxiv},
