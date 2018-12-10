@@ -8,6 +8,7 @@ Team Member: [Shaun Canavan], [Saurabh Hinduja], [Astha Sharma], [Sk Rahatul Jan
 ## Requirements
 * TesnsorFlow
 * Keras
+* Scikit-learn
 * Numpy
 * Dlibs
 * openCV
