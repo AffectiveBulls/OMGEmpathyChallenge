@@ -1,4 +1,4 @@
-# Weighted Fusion of Hand-crafted and Deep Features for Empathy Prediction
+# Fusion of Hand-crafted and Deep Features for Empathy Prediction
 
 This repository contains the source codes for our submissions to [OMG Emotion Challenge 2019].
 Method descriptions can be found here.
