@@ -19,7 +19,7 @@ If you use the code (only for research), please consider citing our paper:
 ```sh
 @inproceedings{
  author =  {Hinduja, S. and Uddin, Md T. and Jannat, Sk R., and Sharma, A. and Canavan, S.},
- title = {{Weighted Fusion of Hand-crafted and Deep Features for Empathy Prediction}},
+ title = {{Fusion of Hand-crafted and Deep Features for Empathy Prediction}},
  year = {2019},
  booktitle = {arxiv},
 }
